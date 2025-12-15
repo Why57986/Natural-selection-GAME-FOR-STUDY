@@ -1,0 +1,8 @@
+
+bgm:Close to You-è¥¿æç±ç´æ±.mp3;
+changeBg:6.4.png -next;
+也许你能告诉我你的想法.....;
+getUserInput:11111 -title=为什么带给我的是这种好处？ -buttonText=确认;
+这个想法不太准确.... -039.mp3;
+choose:A. 让我跑得更快，能轻易甩掉狐狸:10.txt|B. 让我变得更强壮，可以和狐狸搏⽃:10.txt|C. 让我在觅⻝和躲藏时更不容易被捕⻝者发现，从⽽提⾼⽣存⼏率:9.txt|D. 让我能吃到其他兔⼦吃不到的特殊⻝物:10.txt;
+bgm:none -enter=3000;

@@ -1,0 +1,8 @@
+
+changeBg:8.3.png;
+bgm:Green to Blue (æ æ³åæ¯çç).mp3;
+很遗憾，由于你的变异在当前环境下是不利的，你被捕⻝了。⾃然选择是残酷的。 -079.mp3;
+changeBg:8.2.png -next;
+请重新选择;
+unlockCg:;
+choose:B. 躲进旁边那条由深⾊岩⽯构成的缝隙。 :12.txt;

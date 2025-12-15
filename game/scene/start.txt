@@ -1,0 +1,16 @@
+
+intro:大家好，欢迎来到我的世界。|在这里，|你将亲眼见证达尔文先生所说的“自然选择”。|准备好了吗？|我的故事马上开始啦！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2000;
+bgm:Stardew Valley Overture-ConcernedApe.mp3;
+changeBg:1.1.png -next;
+春天来了！这是我们兔⼦家族最盛⼤的节⽇。阳光变得温暖，草⼉变得⾹甜，空⽓中都弥漫着⼀种特别的⽓息。 -001.mp3;
+妈妈告诉我，这是‘繁殖’的季节。 -002.mp3;
+changeBg:1.2.png -next;
+changeFigure:wozong1.png -left -next -transform={"position":{"x":-200,"y":200},"rotation":0,"scale":{"x":0.8,"y":0.8},"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -id=1;
+看，我的兄弟姐妹们！我们这⼀窝就有七⼋个之多。听⻓辈们说，每只健康的雌兔，每年都能⽣好⼏窝，每窝都能有这么多⼩宝宝。 -003.mp3 -id -figureId=1;
+changeBg:1.3.png -next;
+miniAvatar:none;
+整个草原都沸腾了！我们的数量在⻜速增⻓。⻓辈们说，如果⼀直这样⽣下去，⽤不了多久，整个草原都会被我们兔⼦填满。 -004.mp3;
+这……就是⽣命的⼒量吗？ -005.mp3;
+changeFigure: -left -next -id=1;
+假设草原上⼀开始只有10对（20只）健康的成年兔⼦。其中⼀半为雌性。每只雌兔每年可以⽣育⼀次，平均每次能产下4只存活下来的⼩兔⼦。不考虑其他因素，3年后，这个兔⼦种群的理论数量⼤约是多少？;
+choose:约100只:1.txt|约500只:1.txt|约1000只:1.txt|超过10000只:2.txt;

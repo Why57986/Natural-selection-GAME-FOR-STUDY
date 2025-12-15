@@ -1,0 +1,6 @@
+Game_name:Natural selection;
+Game_key:1107edf692257ab;
+Title_img:12.1.1.png;
+Title_bgm:Close to You-è¥¿æç±ç´æ±.mp3;
+Textbox_theme:imss;
+Game_Logo:1.1.png;

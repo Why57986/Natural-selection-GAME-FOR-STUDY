@@ -1,0 +1,19 @@
+
+changeBg:5.5.png -next;
+bgm:Charms-Abel Korzeniowski.mp3;
+changeBg:5.5.png;
+setTransform:{"oldFilm":1} -duration=0 -target=bg-main -ease=easeIn;
+.....;
+setTextbox:on;
+不！......它....它死了？....明明昨天我们还在一起玩耍......生命，原来如此脆弱。 -030.mp3;
+下一个，会不会就是我？ -031.mp3;
+changeBg:å¨é».png -next;
+setTextbox:hide;
+恐惧，像一张巨大的网，将我牢牢困住。 -032.mp3 -notend;
+setTextbox:on;
+我开始怀疑，这个世界，对我们兔子来说，是不是太过残酷？ -033.mp3;
+我们拼命繁殖，却又要面对如此残酷的淘汰。 -034.mp3;
+这一切，是为了什么？ -035.mp3;
+bgm:none -enter=3000;
+choose:若只有强者才能生存，那平凡的我，又该如何寻得生机？:选择场景文件;
+changeScene:8.txt;

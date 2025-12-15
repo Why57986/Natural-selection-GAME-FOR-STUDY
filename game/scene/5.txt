@@ -1,0 +1,8 @@
+
+changeBg:5.3.png;
+bgm:Movie Theme-Fabrizio Paterlini.mp3 -vocal= Once Upon a Time.ogg;
+我成功地找到了食物，但是返回的途中时刻提心吊胆，还差点被狐狸发现。虽然没有被抓到，但是身心俱疲...... -027.mp3;
+无论做何选择，生存都充满了艰辛。这就是生存斗争，它不仅仅是和捕食者的斗争，也是和饥饿、和恐惧、和同伴的斗争！每一个选择，都关乎生死。 -028.mp3;
+choose:回家:选择场景文件;
+setTextbox:hide;
+changeScene:7.txt;

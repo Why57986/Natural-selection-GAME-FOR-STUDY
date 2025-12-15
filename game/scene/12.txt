@@ -1,0 +1,21 @@
+
+bgm:none;
+bgm:Charms-Abel Korzeniowski.mp3 -enter=5000;
+changeBg:8.4.png -next;
+changeFigure:huli.png -left -next -id=4;
+setTransition: -exit=dotFilm -target=4 -enter=dotFilm;
+......;
+changeFigure:none -id=4;
+它没有发现我。我……我还活着！我成功了！我的⽑⾊，它救了我的命！这感觉，太奇妙了！ -048.mp3;
+changeBg:8.5.png -next;
+我……我得救了。但是……它……它没能逃掉。 -049.mp3;
+changeBg:8.6.png -next;
+为什么是我活了下来？仅仅是因为我的⽑⾊吗？这就是所谓的——‘适者⽣存’？ -050.mp3;
+我感到⼀种前所未有的沉重。⽣存，原来不仅仅是靠努⼒，有时候，也取决于你与⽣俱来的东⻄。 -051.mp3;
+我的变异，让我成为了‘适者’，但这背后，却是同伴的牺牲。 -051wodebianyirangwochengweileshizhedanzhebeihouqueshitongbandexisheng.mp3;
+这种胜利，并不让我感到快乐，反⽽让我更加明⽩了这个世界的残酷法则。 -052.mp3;
+优胜，劣汰。 -053.mp3;
+pixiPerform:rain;
+setTextbox:hide;
+choose:适者生存:选择场景文件;
+changeScene:14.txt;

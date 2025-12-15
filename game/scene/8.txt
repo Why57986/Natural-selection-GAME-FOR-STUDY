@@ -1,0 +1,14 @@
+
+changeBg:6.1.png;
+bgm:æ¸éæ¢¦ (beç»å±çç»æ²).mp3 -enter=5000 -volume=80;
+changeFigure:wozong1.png -left -next -id=1 -transform={"scale":{"x":0.6,"y":0.6}};
+setAnimation:enter-from-left -next -target=1;
+我想找个地方休息一下，这个大石头，看起来是个不错的藏身之处。 -036.mp3;
+changeBg:6.2.png -next;
+changeFigure:none -id=1;
+等等……这感觉……好像……我变得不那么显眼了？ -037.mp3;
+changeBg:6.3.png -next;
+是我的⽑⾊！我的深⾊⽑⽪！在这⽚枯草和岩⽯之间，我就像穿了隐身⾐⼀样！这……这就是我的秘密武器吗？ -038.mp3;
+我的深⾊⽑⽪在⽣存⽃争中具体能带来哪些好处？;
+choose:A. 让我跑得更快，能轻易甩掉狐狸:10.txt|B. 让我变得更强壮，可以和狐狸搏⽃:10.txt|C. 让我在觅⻝和躲藏时更不容易被捕⻝者发现，从⽽提⾼⽣存⼏率:9.txt|D. 让我能吃到其他兔⼦吃不到的特殊⻝物:10.txt;
+bgm: -enter=5000;

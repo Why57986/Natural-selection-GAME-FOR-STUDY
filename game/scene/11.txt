@@ -1,0 +1,23 @@
+
+changeBg:7.2.1.png -next;
+changeFigure:7.3.png -id=2 -zIndex=2 -transform={"scale":{"x":1,"y":1}};
+setAnimation:shake -keep -target=2;
+changeFigure:bai1.png -next -id=3 -zIndex=3;
+嗯？什么声⾳？ -080.mp3 -id -figureId=3;
+changeBg:7.4.png -next;
+bgm:å»å­£é¸£æ£-é«å±±.mp3 -vocal= The Depths.ogg -enter=3000;
+changeFigure: -next -id=2;
+changeFigure: -next -id=3;
+setTextbox:hide;
+!!!;
+setTextbox:on;
+“狐狸！⼜是它！快跑！ -081.mp3;
+changeBg:8.1.png -next;
+setAnimation:shake -keep -target=bg-main;
+逃！快逃！快逃—— -046.mp3;
+bgm:none -enter=4000;
+setTextbox:on;
+changeBg:8.2.png -next;
+⽣死关头！狐狸已经锁定了我，我拼尽全⼒奔跑，但体⼒正在迅速下降。前⽅出现了两个可能的藏身之处，你必须⽴刻做出选择！ -047.mp3;
+setTextbox:on;
+choose:A. 躲进前⽅那⽚浅绿⾊的灌⽊丛:13.txt|B. 躲进旁边那条由深⾊岩⽯构成的缝隙。 :12.txt;

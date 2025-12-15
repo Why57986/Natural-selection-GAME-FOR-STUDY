@@ -1,0 +1,6 @@
+
+bgm:Stardew Valley Overture-ConcernedApe.mp3;
+changeBg:9.4.png -next;
+真的是这样的吗？请再想一想吧！ -059.mp3;
+我的深⾊⽑⽪是⼀种有利的变异。现在，这个特征成功地出现在了它的后代身上。这说明了什么⽣物学现象？ -058.mp3 -notend;
+choose:A. 变异是后天获得的，可以遗传:16.txt|B. 变异是随机的，与遗传⽆关:16.txt|C. 许多变异是可以遗传的，这是进化的基础:15.txt|D. 只有强壮的个体才能将特征遗传给后代:16.txt;

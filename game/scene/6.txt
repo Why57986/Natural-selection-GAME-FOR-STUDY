@@ -1,0 +1,8 @@
+
+changeBg:5.4.png;
+bgm:Movie Theme-Fabrizio Paterlini.mp3;
+我勉强地找到了一些食物果腹，但是饥饿感始终充斥着我的全身，我越来越虚弱了...... -029.mp3;
+无论选择哪一条路，生存都充满了艰辛。这就是生存斗争，它不仅仅是和捕食者的斗争，也是和饥饿、和恐惧、和同伴的斗争！每一个选择，都可能决定我的生死。 -028.mp3;
+choose:回家:选择场景文件;
+setTextbox:hide;
+changeScene:7.txt;
